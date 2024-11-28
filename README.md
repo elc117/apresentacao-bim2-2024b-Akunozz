@@ -1,6 +1,6 @@
 # apresentacao-bim2-2024b-Akunozz
 
-## Similaridade de objetos com operador "==" e método "equals()": pesquisar sobre o assunto e resolver quiz "Equals and ArrayList" em https://java-programming.mooc.fi/part-8/3-similarity-of-objects (criar e executar programa com base no quiz)
+## Similaridade de objetos com operador "==" e método "equals()"
 
 <h2> Operador == </h2>
 Este operador compara as referências de memória, ou seja, verifica se os dois objetos ocupam o mesmo local na memória<br>
